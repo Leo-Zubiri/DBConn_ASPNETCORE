@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConn_ASPNETCORE", "DBConn_ASPNETCORE.csproj", "{9B4B58B5-0FB7-4BAD-87C0-796D3CBFF78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B4B58B5-0FB7-4BAD-87C0-796D3CBFF78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4B58B5-0FB7-4BAD-87C0-796D3CBFF78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4B58B5-0FB7-4BAD-87C0-796D3CBFF78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4B58B5-0FB7-4BAD-87C0-796D3CBFF78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABC99C2C-5FD0-4305-AAF3-894CBE323652}
+	EndGlobalSection
+EndGlobal
